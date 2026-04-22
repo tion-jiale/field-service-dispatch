@@ -4,8 +4,9 @@ uvicorn==0.30.6
 httpx==0.27.2
 pydantic==2.9.2
 
-# ML
-torch==2.4.1
+# ML — CPU only (smaller, compatible with Railway)
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.4.1+cpu
 numpy==1.26.4
 
 # Data
