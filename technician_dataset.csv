@@ -1,0 +1,11 @@
+technician_id,technician_shift,skill,status,job_type,experience,lat,lon
+TECH001,Morning,1.1,Working,Electrical,8,3.762489,103.48842
+TECH002,Morning,3.9,Off Shift,Mechanical,19,3.891301,103.361553
+TECH003,Evening,1.1,Available,Electrical,8,3.683743,103.202034
+TECH004,Morning,3.2,Off Shift,Civil,8,3.844138,103.400981
+TECH005,Evening,3.4,Available,Electrical,14,3.927499,103.222338
+TECH006,Evening,2.1,Available,IT,4,3.693042,103.211912
+TECH007,Morning,2.5,Working,IT,20,3.737157,103.334921
+TECH008,Evening,4.2,Off Shift,Civil,18,3.783176,103.250767
+TECH009,Morning,4.9,Working,Mechanical,18,3.848007,103.196088
+TECH010,Evening,4.3,Off Shift,IT,19,3.732797,103.277842

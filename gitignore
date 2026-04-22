@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Large files — generate locally
+assignments.csv
+eval_log.csv
+
+# OS
+.DS_Store
+Thumbs.db
