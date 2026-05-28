@@ -1,10 +1,15 @@
 # Streamlit Cloud dependencies only
 # Railway uses requirements.txt (full dependencies)
 
+fastapi==0.115.0
+uvicorn==0.30.6
+httpx==0.27.2
+pydantic==2.9.2
+
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.4.1+cpu
+ 
 numpy==1.26.4
 pandas==2.2.3
-streamlit==1.39.0
-streamlit-folium==0.23.1
-folium==0.18.0
-fastapi
-uvicorn
+ 
+gymnasium==0.29.1
