@@ -1,8 +1,6 @@
 # Streamlit Cloud dependencies only
 # Railway uses requirements.txt (full dependencies)
 
-python==3.11.9
-
 fastapi==0.115.0
 uvicorn==0.30.6
 httpx==0.27.2
